@@ -6,6 +6,7 @@
 - A classe <code>Collections</code> fornece algoritmos úteis para manipulação de <code>List</code>, como ordenação (sort), embaralhamento (shuffle), reversão (reverse) e busca binária (binarySearch).
 
 >*ArrayList*:  implementação padrão de List em Java. Armazena elementos em um array dinâmico, permitindo acesso rápido aos elementos pelo índice. Não garante a ordem dos elementos.
+>
 >*LinkedList*: implementação de List que armazena elementos em uma lista encadeada. É eficiente para inserção e remoção de elementos em qualquer posição da lista.
 
 ### Referências:
