@@ -8,7 +8,7 @@
 
 > *TreeSet*: implementação de Set que mantém os elementos ordenados de acordo com a ordem natural dos elementos ou com um Comparator fornecido pelo usuário.
 
--*LinkedHashSet*: implementação de Set que mantém a ordem de inserção dos elementos.
+> *LinkedHashSet*: implementação de Set que mantém a ordem de inserção dos elementos.
 
 ### Referências:
 [1] "Introdução às Coleções em Java: List e Set." Gaspar Barancelli Junior. Disponível em: https://www.gasparbarancelli.com/post/introducao-as-colecoes-em-java-list-e-set#:~:text=A%20interface%20List%20define%20uma,em%20qualquer%20posi%C3%A7%C3%A3o%20da%20lista.
