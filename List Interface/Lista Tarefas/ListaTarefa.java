@@ -28,10 +28,4 @@ public class ListaTarefa {
     public void obterDescricaoTarefas(){
         System.out.println(tarefaList);
     }
-    /*public static void main(String[] args) {
-        ListaTarefa listaTarefa = new ListaTarefa();
-
-        System.out.println(listaTarefa.obterNumeroTotalTarefas());
-        System.out.println(listaTarefa.adicionarTarefas(descricao));
-    }*/
 }
